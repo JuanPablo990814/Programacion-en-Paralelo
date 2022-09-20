@@ -91,5 +91,5 @@ int main(int argc, char** argv)
     return 0; 
 } 
 
-//g++ lab1-punto2.cpp -o ejecutable-punto2
+//g++ lab1_punto2.cpp -o ejecutable-punto2
 //./ejecutable-punto2 matriz1 matriz2 tamañomatriz
